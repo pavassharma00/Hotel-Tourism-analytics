@@ -1,0 +1,22 @@
+HOTEL & TOURISM ANALYTICS - FINAL SUMMARY
+
+Total Bookings: 87396
+Total Columns: 32
+Successful Bookings: 63371
+Canceled Bookings: 24025
+Cancellation Rate: 27.49%
+Estimated Room Revenue: 22976896.33
+Average ADR: 102.00
+Average Stay: 3.63 nights
+Average Lead Time: 79.89 days
+
+HOTEL PERFORMANCE:
+              total_bookings  cancellation_rate  average_adr
+hotel                                                       
+City Hotel             53428              30.04       110.99
+Resort Hotel           33968              23.48        99.03
+
+KEY FINDINGS:
+City Hotel and Resort Hotel performance compared.
+Cancellation patterns and customer behaviour analysed.
+Estimated room revenue calculated from ADR and stay nights.
